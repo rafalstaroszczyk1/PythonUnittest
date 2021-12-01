@@ -10,7 +10,8 @@
 
 ## General Information
 Repository contains two particular modules :
-= employee_unittest.py -- > In the same additional directory, the module with the test (test_employee.py)
+
+- employee_unittest.py -- > In the same additional directory, the module with the test (test_employee.py)
 - example_pytest.py -- > tests in module 
 
 
